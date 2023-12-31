@@ -56,7 +56,8 @@ httpd.serve_forever()
 ```
 
 # OUTPUT:
-![output](images/webserver1.png)
+![webserver](https://github.com/Renusri-Naraharasetty/WEB-SERVER/assets/146916363/8453aefd-ede2-4fd3-b49e-5091b523ac1e)
+
 
 # RESULT:
 
